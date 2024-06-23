@@ -1,0 +1,1 @@
+print(f"player attacking {damage} damage to monster!")
